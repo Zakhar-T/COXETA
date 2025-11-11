@@ -1,4 +1,4 @@
-### COXETA
+# COXETA
 
 A commercial business card website for a game on Play Market. Showcases sleek design, interactive elements, and a focus on user experience.
 
